@@ -577,7 +577,7 @@
     },
     {
         "end_time": 1508133600,
-        "rare_weapon": 20000,
+        "rare_weapon": 20010,
         "stage_id": 5001,
         "start_time": 1508025600,
         "weapon_list": [
@@ -745,7 +745,7 @@
     },
     {
         "end_time": 1510315200,
-        "rare_weapon": 20000,
+        "rare_weapon": 20010,
         "stage_id": 5000,
         "start_time": 1510228800,
         "weapon_list": [
@@ -889,7 +889,7 @@
     },
     {
         "end_time": 1512367200,
-        "rare_weapon": 20000,
+        "rare_weapon": 20010,
         "stage_id": 5002,
         "start_time": 1512259200,
         "weapon_list": [
@@ -1057,7 +1057,7 @@
     },
     {
         "end_time": 1514548800,
-        "rare_weapon": 20000,
+        "rare_weapon": 20010,
         "stage_id": 5000,
         "start_time": 1514462400,
         "weapon_list": [
@@ -1381,7 +1381,7 @@
     },
     {
         "end_time": 1518984000,
-        "rare_weapon": 20000,
+        "rare_weapon": 20010,
         "stage_id": 5003,
         "start_time": 1518854400,
         "weapon_list": [
@@ -1537,7 +1537,7 @@
     },
     {
         "end_time": 1521007200,
-        "rare_weapon": 20000,
+        "rare_weapon": 20010,
         "stage_id": 5000,
         "start_time": 1520899200,
         "weapon_list": [
@@ -1849,7 +1849,7 @@
     },
     {
         "end_time": 1525089600,
-        "rare_weapon": 20000,
+        "rare_weapon": 20020,
         "stage_id": 5002,
         "start_time": 1524960000,
         "weapon_list": [
@@ -1933,7 +1933,7 @@
     },
     {
         "end_time": 1526191200,
-        "rare_weapon": 20000,
+        "rare_weapon": 20020,
         "stage_id": 5001,
         "start_time": 1526061600,
         "weapon_list": [
@@ -2029,7 +2029,7 @@
     },
     {
         "end_time": 1527451200,
-        "rare_weapon": 20000,
+        "rare_weapon": 20020,
         "stage_id": 5002,
         "start_time": 1527321600,
         "weapon_list": [
@@ -2173,7 +2173,7 @@
     },
     {
         "end_time": 1529323200,
-        "rare_weapon": 20000,
+        "rare_weapon": 20030,
         "stage_id": 5001,
         "start_time": 1529193600,
         "weapon_list": [
@@ -2257,7 +2257,7 @@
     },
     {
         "end_time": 1530424800,
-        "rare_weapon": 20000,
+        "rare_weapon": 20030,
         "stage_id": 5003,
         "start_time": 1530295200,
         "weapon_list": [
